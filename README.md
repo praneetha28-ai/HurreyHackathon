@@ -1,5 +1,6 @@
-# HurreyHackathon
-## Team Members
+# Hurrey Hackathon Submission Demo
+## Team Details
+Institute of Aeronautical Engineering <br />
 Praneetha Peniji - 20951a6633@iare.ac.in<br />
 Bhimesh Devarla - 20951a6608@iare.ac.in
 
@@ -12,7 +13,7 @@ question-wise marks obtained by the students in a class assessment. The teacher 
 be able to enter the marks in the most time and energy-efficient manner using the latest
 technologies like ML, DL, NLP, etc. using mobile or laptop.
 
-## Solution Proposed 
+## Project Explanation
 
 It is never simple to enter the marks of all the students through traditional data entry.
 So we have proposed a solution which makes the data entry simpler and easier.Through this 
@@ -24,7 +25,7 @@ The project takes your __SPEECH__ as input and stores the marks of each question
 -->  Speech Recognition Library <br />
 -->  VS Code <br />
 
-## How to use
+## How to Run Project
 <pre>
 Step 1 : Download the main.py file <br />
 Step 2 : Install the Speech recognition Library <br />
